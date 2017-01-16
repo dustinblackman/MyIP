@@ -8,6 +8,8 @@ import (
 )
 
 var sites = []string{
+	"http://ipv4bot.whatismyipaddress.com",
+	"http://wtfismyip.com/text",
 	"http://icanhazip.com",
 	"http://canihazip.com/s",
 }
